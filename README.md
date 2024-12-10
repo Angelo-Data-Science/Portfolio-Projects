@@ -13,7 +13,7 @@ Data Scientist in the making, I have experience as a journalist and editor.
 
 My credentials include a Master's degree in Media Communications from the State University of Sao Paulo (UNESP), one of the top and most prestigious universities in Brazil, a graduate degree in Journalism from the same institution, and a degree in Englins Languag form the University of Brasilia (UnB), also one the most pretigious universities in Brazil.
 
-**Background in:** Python, Machine Learning, digital journalism.
+**Background in:** Python, Machine Learning, Digital Corporate Communication.
 
 **Links:**
 * [Blog](https://sigmoidal.ai)
